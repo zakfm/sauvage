@@ -1,17 +1,11 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+Balades naturalistes autour de La Seyne-sur-Mer.
+Toutes les espèces sauvages nous intéressent.
+Elles sont toutes liées entre elles pour survivre.
+Nous voulons protéger ce lien.
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
-
-## Nos activités
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+![Rougequeue à front blanc mâle à l'Oïde]({% link images/2023-03-28 à 10-52-39 .jpg %}) 
