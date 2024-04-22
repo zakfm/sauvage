@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Contact : eiramsiocnarf@gmail.com
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+![Mouette rieuse en vol dans la baie du Lazaret]({% link images/2023-01-05 à 12-01-51 .jpg %}) 
