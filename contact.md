@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 3
 in_menu: true
 ---
 Contact : eiramsiocnarf@gmail.com
