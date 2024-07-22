@@ -3,10 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-Inventaires naturalistes autour de La Seyne-sur-Mer.
-Toutes les espèces sauvages nous intéressent.
-Elles sont toutes plus ou moins liées entre elles pour survivre.
-Nous voulons les connaître et les protéger. 
-![Fauvette mélanocéphale]({% link images/Fauvette mélanocéphale.jpg %})
-
-Contact : eiramsiocnarf@gmail.com 
+Toutes les photos de ce site ont été prises par François-Marie Zwank à La Seyne-sur-Mer et aux alentours lors d'inventaires naturalistes. 
+Pour utiliser ces photos demander l'autorisation à :
+ Contact => eiramsiocnarf@gmail.com 
+![Fauvette mélanocéphale]({% link images/Fauvette mélanocéphale.jpg %}) 
