@@ -1,5 +1,5 @@
 ---
-title: "Les oiseaux marins"
+title: "Les Oiseaux marins"
 order: 2
 in_menu: true
 ---
