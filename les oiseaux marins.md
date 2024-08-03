@@ -13,3 +13,4 @@ La Mouette rieuse (Chroicocephalus ridibundus)
 
 Sterne caugek (Thalasseus sandvicensis)
  ![Sterne caugek]({% link images/2018-07-27 à 07-25-51_v2.jpg %}) 
+ ![Sterne caugek]({% link images/2018-08-03 à 07-22-40 _v2.jpg %}) 
