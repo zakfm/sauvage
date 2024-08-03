@@ -9,6 +9,7 @@ Le Goéland leucophée (Larus michahellis)
 
 La Mouette rieuse (Chroicocephalus ridibundus)
  ![Mouette rieuse]({% link images/Mouette rieuse.jpg %}) 
+ ![Mouette rieuse]({% link images/2023-01-05 à 12-01-51 _v1.jpg %})
 
 
 Sterne caugek (Thalasseus sandvicensis)
